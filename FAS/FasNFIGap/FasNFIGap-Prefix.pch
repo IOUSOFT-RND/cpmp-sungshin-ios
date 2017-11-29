@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'FasNFIGap' target in the 'FasNFIGap' project
+//
+#define LIB_VERSION 1.4.5
+
+#ifdef __OBJC__
+	#import <Foundation/Foundation.h>
+#endif

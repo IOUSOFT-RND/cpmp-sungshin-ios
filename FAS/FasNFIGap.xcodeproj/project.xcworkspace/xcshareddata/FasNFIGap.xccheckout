@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>170D6444-F364-4DA2-AFDD-64159BB8187C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FasNFIGap</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>68fbdc8f-fa4e-489b-9005-5d389899caca++9798</key>
+		<string>svn://202.86.11.10/fpms/fPNS_Project/fPNSLibForIOS</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FasNFIGap.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>68fbdc8f-fa4e-489b-9005-5d389899caca++9798</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>68fbdc8f-fa4e-489b-9005-5d389899caca++9798</key>
+		<string>svn://202.86.11.10/fpms</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>svn://202.86.11.10/fpms/fPNS_Project/fPNSLibForIOS/FasNFIGap.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>68fbdc8f-fa4e-489b-9005-5d389899caca++9798</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>68fbdc8f-fa4e-489b-9005-5d389899caca++9798</string>
+			<key>IDESourceControlWCCName</key>
+			<string>fPNSLibForIOS</string>
+		</dict>
+	</array>
+</dict>
+</plist>
